@@ -32,4 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedirhnturhn&show_icons=true&locale=en&layout=compact" alt="bedirhnturhn" /></p>
 
 
-<p align="left"><br> <img src="https://komarev.com/ghpvc/?username=bedirhnturhn&label=Profile%20views%20count&color=10c613&style=flat-square" alt="bedirhnturhn" /> </p>
+<p align="left"><br><br><br><br><br><br> <img src="https://komarev.com/ghpvc/?username=bedirhnturhn&label=Profile%20views%20count&color=10c613&style=flat-square" alt="bedirhnturhn" /> </p>
