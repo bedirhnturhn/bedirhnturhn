@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bedirhan Turhan</h1>
 <h3 align="center">I am native IOS Developer from Turkey. I develop my own apps and frameworks.</h3>
 
-- 🔭 I’m currently working at [Texinsight](https://github.com/texinsightt)
-
 - 🌱 I’m currently learning **SwiftUI and Architectures**
 
 - 💬 Ask me about **Swift, gRPC and deploying AI models on mobile devices**
